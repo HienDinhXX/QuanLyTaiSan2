@@ -1,14 +1,14 @@
 
 {
-  "name" : "Quản lý chi tiêu",
-  "short_name" : "chi tiêu",
+  "name" : "Quản lý tài sản",
+  "short_name" : "Asset Management ",
   "start_url" : "./",
   "display" :  "standalone",
   "background_color" : "#f2f2f7",
   "theme_color" : "#007aff",
   "icons" : [ 
   { 
-    "src" : "IMG_0670.jpeg",
+    "src" : "IMG_1660.jpeg",
     "sizes" : "192x192",
     "type" : "image/jpeg"
   }
